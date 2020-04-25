@@ -1,0 +1,11 @@
+/* Sets a light gray background color */
+body {
+  background-color: lightgray;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 20px;
+}
+
+/* Color for the header*/
+.headerColor {
+    color: black;
+}
